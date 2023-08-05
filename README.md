@@ -24,8 +24,8 @@ This project aims to build a custom CNN model that accurately detects melanoma, 
 
 ## Conclusions
 
- - Final Training Accuracy: 94.71%
- - Final Validation Accuracy: 87.90%
+ - Final Training Accuracy: The model learned the Training Data Effectively.
+ - Final Validation Accuracy: The model performed well on unseen data suggesting good generalization.
  - Low Training and Validation Loss
  - Improved accuracy and robustness in the latest model
  - Considerable enhancement through balanced regularization, simplified architecture, and Augmentor usage.
