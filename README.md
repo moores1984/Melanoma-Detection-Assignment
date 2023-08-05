@@ -4,6 +4,8 @@
 
 This project aims to build a custom CNN model that accurately detects melanoma, a type of cancer responsible for 75% of skin cancer deaths. The model evaluates images to assist dermatologists in early detection, reducing the manual effort required in diagnosis.
 
+Please note, Uploaded images in the Repo are from BEFORE ipynb file has been run so that anyone who downloads this, can run their own instance.
+
 
 ## Table of Contents
 - [Project Name](#project-name)
